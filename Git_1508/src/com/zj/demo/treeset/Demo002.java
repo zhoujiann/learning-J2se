@@ -14,7 +14,7 @@ public class Demo002 {
 		/*
 		 * 如果像下面这样做
 		 * Exception in thread "main" java.lang.ClassCastException:
-		 * com.zj.demo.treeset.Person cannot be cast to java.lang.Comparable
+		 * 		com.zj.demo.treeset.Person cannot be cast to java.lang.Comparable
 		 * -->所以，了解Comparable
 		 */
 //		ts.add(new Person("张三", 23));

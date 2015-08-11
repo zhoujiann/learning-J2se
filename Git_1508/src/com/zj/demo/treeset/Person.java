@@ -28,7 +28,7 @@ public class Person implements Comparable<Object>{
 		return 11;
 		
 		if(this.age == person.age)
-			return 0 ;
+			return this.name.compareTo(person.name) ;
 		return -1 ;
 		
 	}

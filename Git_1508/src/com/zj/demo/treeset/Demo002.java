@@ -30,6 +30,7 @@ public class Demo002 {
 		ts.add(new Person("张三",25));
 		ts.add(new Person("李四",21));
 		ts.add(new Person("王五",23));
+		ts.add(new Person("张四",23));
 //		for (Iterator<Person> it = ts.iterator(); it.hasNext() ;) {
 //			it.next().shout();
 //		}
